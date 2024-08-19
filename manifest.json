@@ -5,7 +5,7 @@
     "description": "A simple color picker extension for Chrome.",
     "permissions": ["activeTab", "storage"],
     "action": {
-      "default_popup": "popup.html",
+      "default_popup": "index.html",
       "default_icon": {
         "16": "logo.png"
       }
